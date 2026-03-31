@@ -24,7 +24,8 @@ Google's advanced Agentic AI models were utilized to rapidly architect the struc
 *(Make sure to upload actual images to your repository and link them here)*
 ---<img width="1362" height="927" alt="1" src="https://github.com/user-attachments/assets/6c590248-0d79-4e4c-bffb-3e5c09da8379" />
 <img width="1291" height="909" alt="2" src="https://github.com/user-attachments/assets/b2c1de84-c82d-481f-8f88-21ed507d6aaa" />
-<img width="675" height="643" alt="3" src="https://github.com/user-attachments/assets/c50ce9fb-d2c4-4f21-8f69-d9fbf0d0210b" />
+<img width="909" height="624" alt="4" src="https://github.com/user-attachments/assets/fc7ad434-67f4-4a91-9c75-b43c0da860fe" />
+
 <img width="1383" height="939" alt="send" src="https://github.com/user-attachments/assets/ce60abb6-42a2-4589-b5f8-615a36b19170" />
 ## Demo Video
 Watch the full project walkthrough and live demonstration here (Under 3 minutes):
@@ -37,7 +38,8 @@ Watch the full project walkthrough and live demonstration here (Under 3 minutes)
 ## Installation Steps
 
 
-> **Note:** This project is built utilizing a Python backend (Flask), so the core dependencies are managed via `pip` instead of `npm`.
+> **Note:** This project is built u
+tilizing a Python backend (Flask), so the core dependencies are managed via `pip` instead of `npm`.
 
 ```bash
 # Clone the repository
